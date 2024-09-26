@@ -1,55 +1,55 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Outfit", sans-serif ;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
 }
 
 body {
-    background: lightblue;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+  background: lightblue;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    height: 500px;
-    width: 350px;
-    background: white;
-    border-radius: 25px;
-    text-align: center;
-    margin: 0 auto;
-    box-shadow: 1px 1px 10px hsl(212, 45%, 89%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 500px;
+  width: 350px;
+  background: white;
+  border-radius: 25px;
+  text-align: center;
+  margin: 0 auto;
+  box-shadow: 1px 1px 10px hsl(212, 45%, 89%);
 }
 
 .wrapper p {
-    margin: 20px;
-    font-size: 15px;
-    color: hsl(220, 15%, 55%);
+  margin: 20px;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
 }
 .wrapper h2 {
-    margin: 20px;
+  margin: 20px;
 }
 img {
-    height: 300px;
-    border-radius: 25px;
-    padding-top: 10px;
+  height: 300px;
+  border-radius: 25px;
+  padding-top: 10px;
 }
 
 .attribution {
-    font-size: 13px;
-    text-align: center;
-    color: white;
-    position: relative;
-    top: 60px;
+  font-size: 13px;
+  text-align: center;
+  color: white;
+  position: relative;
+  top: 60px;
 }
 
 .attribution a {
-    color: blue;
+  color: blue;
 }
