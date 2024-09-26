@@ -15,12 +15,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](/images/screenshot.png)
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-ffxY3Gb6IP)
+- [Live Site URL](https://kiyahmitchell.github.io/qr-code-component-main/)
 
 ## My Process
 
@@ -33,14 +33,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Code Highlights
 
-- **HTML Structure**: The project uses a simple, semantic HTML structure with a wrapper that contains the QR code, a heading, and a description paragraph. An attribution section credits the challenge and your work.
+- HTML Structure: The project uses a simple, semantic HTML structure with a wrapper that contains the QR code, a heading, and a description paragraph. An attribution section credits the challenge and your work.
 
-- **Font**: The project utilizes the "Outfit" font from Google Fonts, which is linked in the `<head>` section of the HTML.
+- Font: The project utilizes the "Outfit" font from Google Fonts, which is linked in the `<head>` section of the HTML.
 
-- **Image Accessibility**: The QR code image includes an `alt` attribute for better accessibility, making it clear what the image represents.
+- Image Accessibility: The QR code image includes an `alt` attribute for better accessibility, making it clear what the image represents.
 
 ## Author
 
 - Website - [Kiyah Mitchell](https://www.kiyahmitchell.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@kiyahmitchell](https://www.frontendmentor.io/profile/kiyahmitchell)
 - Instagram - [@kiyahcodes](https://www.instagram.com/kiyahcodes)
